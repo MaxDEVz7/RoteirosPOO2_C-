@@ -1,0 +1,114 @@
+1) 
+
+Testes de integração são testes de sistema(s), de forma geral. Esses testes são importantes para testar Service + Repository + Banco real.
+
+2)
+
+O teste unitário se diz respeito ao testes dos Services mockando os dados do repository.
+
+3) 
+
+Não, podem ser realizados também de forma manual, sendo mais indicado em sistemas mais simples, o teste manual.
+
+4) 
+
+Eles são importantes para a garantia da integridade, usabilidade do sistema
+
+5) 
+
+- Problemas de Sintaxe/Semantica: Esses problemas são causados por erros de programação no código fonte, sendo erros de lógica ou de escrita.
+- Resultados divergentes: Quando resultados obtidos fogem do esperado, provavelmente devido a erro de calculos no código fonte, interferencias externas ou falha de hardware.
+
+6) 
+
+- Identificação dos módulos: Compreensão dos módulos e suas funcionalidades
+- Definição dos cenários de teste: Estabeleer quais funcionalidades serão testadas.
+- Criação dos casos de teste: Criação dos testes, estabelecer os resultados e dados de entrada.
+- Execução dos testes: Aplicação dos testes.
+- Validação dos resultados: Comparação dos resultados.
+- Documentação: Documentação de todos os testes.
+
+7) 
+
+
+Integração vertical: Verifica a interação das camadas do sistema. Exemplo: Controller -> Service.
+
+Integração horizontal: Verifica a comunicação de módulos da mesma camada. Exemplo: ProdutoService -> PedidoService
+
+8) 
+
+Integração vertical, pois está validando a comunicação das camadas do sistema.
+
+9) Integração de interfaces é o que verifica se as interfaces do software estão cumprindo com as implementações de si.
+
+10) Porque o teste unitário é feito sem validar a conexão com o banco.
+
+11) 
+
+a) Integração horizontal
+b) Na situação de serem dois services de sistemas diferentes, a integração passaria a ser integração de Sistemas.
+
+12)
+
+Integração de Sistemas, pois realiza a utilização de serviços externos de outro sistema.
+
+13)
+
+A integração de regressão é a realização de testes a cada modificação no desenvolvimento, sendo super importante para garantia que tudo está funcionando.
+
+14) 
+
+Integração de Interfaces, pois validam a implementação de uma interface.
+
+15)
+
+testes de integração costumam ser mais lentos. Eles envolvem várias partes do sistema funcionando juntas (como banco de dados, APIs, serviços externos)
+
+16) 
+
+Testes unitários validam cada parte separadamente, muitas vezes usando mocks. Isso não garante que os módulos realmente funcionem bem entre si.
+
+17)
+
+Porque a integração de sistemas inclui muitos outros cenários além de serviços. Por exemplo:
+
+Integração entre aplicação e banco de dados
+
+18)
+
+Integração de sistemas: banco de dados + fluxo interno
+Integração de serviços: chamada à API de pagamento
+
+19)
+
+Dependencias mockadas são dados que imitam dados reais, colocados estaticamente no código.
+Dependencias reais são dados reais que vem de banco de dados, api.
+
+Testes com dados mocados são mais rapidos, porém perigosos pois não lidam com um cenário tão próximo da realidade.
+
+
+20)
+
+- Detecção rapida de erros
+- Velocidade nos testes quando já implementado a automação.
+- Maior confiança nos testes
+
+21)
+
+Embora os testes de integração sejam fundamentais para validar a "fiação" do sistema, eles não substituem a cobertura total de qualidade. Testar todas as variações de caminhos lógicos (if/else, loops, exceções) apenas via integração é extremamente lento e complexo. O teste unitário é muito mais eficiente para cobrir essas minúcias.
+
+22)
+
+Sim, pois pode haver algum erro na implementação da API externa.
+
+23) 
+
+Uma boa arquitetura, pode facilitar os testes, identificação de erros. E manutenção de erros durante os testes de integração.
+
+24)
+
+
+Não, são testes que devem ser escolhidos conforme a necessidade do sistema. 
+Testes unitários: Rápidos, baratos e testam a lógica pura, testes integração: Validam a comunicação. Mais lentos e caros.
+
+25) Acredito que seja a documentação de todos os testes.

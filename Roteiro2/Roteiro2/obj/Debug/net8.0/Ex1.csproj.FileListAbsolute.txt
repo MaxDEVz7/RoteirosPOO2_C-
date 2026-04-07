@@ -1,0 +1,14 @@
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\bin\Debug\net8.0\Ex1.exe
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\bin\Debug\net8.0\Ex1.deps.json
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\bin\Debug\net8.0\Ex1.runtimeconfig.json
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\bin\Debug\net8.0\Ex1.dll
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\bin\Debug\net8.0\Ex1.pdb
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\obj\Debug\net8.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\obj\Debug\net8.0\Ex1.AssemblyInfoInputs.cache
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\obj\Debug\net8.0\Ex1.AssemblyInfo.cs
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\obj\Debug\net8.0\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\obj\Debug\net8.0\Ex1.dll
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\obj\Debug\net8.0\refint\Ex1.dll
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\obj\Debug\net8.0\Ex1.pdb
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\obj\Debug\net8.0\Ex1.genruntimeconfig.cache
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\Roteiro2\Roteiro2\obj\Debug\net8.0\ref\Ex1.dll

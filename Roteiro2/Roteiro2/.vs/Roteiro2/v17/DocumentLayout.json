@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro2\\Roteiro2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F75390-87AE-4E46-155D-8525C3B6B3CC}|..\\..\\Roteiro 2\\Exercicio-2\\Ex2.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo2 c#\\roteiro 2\\exercicio-2\\xmlmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F75390-87AE-4E46-155D-8525C3B6B3CC}|..\\..\\Roteiro 2\\Exercicio-2\\Ex2.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo2 c#\\roteiro 2\\exercicio-2\\ex2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F75390-87AE-4E46-155D-8525C3B6B3CC}|..\\..\\Roteiro 2\\Exercicio-2\\Ex2.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo2 c#\\roteiro 2\\exercicio-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177E5457-C984-47BA-914D-3598D8FAA1D4}|Ex1.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo2 c#\\roteiro2\\roteiro2\\xmlmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177E5457-C984-47BA-914D-3598D8FAA1D4}|Ex1.csproj|solutionrelative:xmlmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177E5457-C984-47BA-914D-3598D8FAA1D4}|Ex1.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo2 c#\\roteiro2\\roteiro2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177E5457-C984-47BA-914D-3598D8FAA1D4}|Ex1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex2.csproj",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro 2\\Exercicio-2\\Ex2.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Roteiro 2\\Exercicio-2\\Ex2.csproj",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro 2\\Exercicio-2\\Ex2.csproj",
+              "RelativeToolTip": "..\\..\\Roteiro 2\\Exercicio-2\\Ex2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-07T01:30:04.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XmlModels.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro 2\\Exercicio-2\\XmlModels.cs",
+              "RelativeDocumentMoniker": "..\\..\\Roteiro 2\\Exercicio-2\\XmlModels.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro 2\\Exercicio-2\\XmlModels.cs",
+              "RelativeToolTip": "..\\..\\Roteiro 2\\Exercicio-2\\XmlModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T01:28:41.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro 2\\Exercicio-2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Roteiro 2\\Exercicio-2\\Program.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro 2\\Exercicio-2\\Program.cs",
+              "RelativeToolTip": "..\\..\\Roteiro 2\\Exercicio-2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T01:27:53.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XmlModels.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro2\\Roteiro2\\XmlModels.cs",
+              "RelativeDocumentMoniker": "XmlModels.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro2\\Roteiro2\\XmlModels.cs",
+              "RelativeToolTip": "XmlModels.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T01:26:10.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro2\\Roteiro2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro2\\Roteiro2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T01:24:50.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

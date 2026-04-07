@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\roteiro 1\\BibliotecaFinanceira\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89470C10-13A4-407B-874A-9DFE8DF7443B}|BibliotecaFinanceira.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo2 c#\\roteiro 1\\bibliotecafinanceira\\calculadorajuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89470C10-13A4-407B-874A-9DFE8DF7443B}|BibliotecaFinanceira.csproj|solutionrelative:calculadorajuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89470C10-13A4-407B-874A-9DFE8DF7443B}|BibliotecaFinanceira.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo2 c#\\roteiro 1\\bibliotecafinanceira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89470C10-13A4-407B-874A-9DFE8DF7443B}|BibliotecaFinanceira.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraJuros.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\roteiro 1\\BibliotecaFinanceira\\CalculadoraJuros.cs",
+              "RelativeDocumentMoniker": "CalculadoraJuros.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\roteiro 1\\BibliotecaFinanceira\\CalculadoraJuros.cs",
+              "RelativeToolTip": "CalculadoraJuros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T22:43:30.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\roteiro 1\\BibliotecaFinanceira\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\roteiro 1\\BibliotecaFinanceira\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T22:42:30.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
