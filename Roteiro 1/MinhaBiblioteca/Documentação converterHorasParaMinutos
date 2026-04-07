@@ -1,0 +1,5 @@
+Documentação de utilização do método converterHorasParaMinutos(Double).
+
+Nesse método você deverá passar um double como parametro indicando o valor de horas que será transformado para minutos.
+
+E será retornado para você um double com as horas convertidas para minutos.
