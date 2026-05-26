@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "efTw2wNkS2I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\roteiro 7\\BancoNlog\\BancoNlog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxwi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\maxwi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\maxwi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\maxwi\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\maxwi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\maxwi\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\maxwi\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\maxwi\\.nuget\\packages\\nlog\\6.1.3\\nlog.6.1.3.nupkg.sha512",
+    "C:\\Users\\maxwi\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\maxwi\\.nuget\\packages\\nlog.extensions.logging\\6.1.3\\nlog.extensions.logging.6.1.3.nupkg.sha512",
+    "C:\\Users\\maxwi\\.nuget\\packages\\nlog.schema\\4.7.15\\nlog.schema.4.7.15.nupkg.sha512"
+  ],
+  "logs": []
+}

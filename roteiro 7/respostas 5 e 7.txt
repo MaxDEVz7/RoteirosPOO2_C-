@@ -1,0 +1,35 @@
+Info
+
+Usado para:
+
+operações normais
+fluxo da aplicação
+eventos importantes
+
+Exemplo:
+
+logger.Info("Usuário autenticado.");
+
+Warn
+
+Usado para:
+
+situações suspeitas
+tentativas inválidas
+problemas não críticos
+
+Exemplo:
+
+logger.Warn("Tentativa de saque inválida.");
+
+Error
+
+Usado para:
+
+exceções
+falhas reais
+erros inesperados
+
+Exemplo:
+
+logger.Error(ex, "Erro ao salvar dados.");

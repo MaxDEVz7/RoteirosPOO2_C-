@@ -1,0 +1,64 @@
+Exercício 5 — Tratamento correto
+
+Código incorreto:
+
+catch (Exception ex)
+{
+    throw ex;
+}
+
+Código correto:
+
+catch
+{
+    throw;
+}
+Motivo
+
+throw ex; recria a exceção e perde a StackTrace original.
+
+Já o throw; mantém:
+
+- origem real do erro
+- pilha completa
+- ponto correto da falha
+
+
+Exercício 7: 
+
+1. Porque ela deixa o erro mais específico.
+
+Exemplo:
+
+SaldoInsuficienteException
+LimiteDiarioException
+
+Isso melhora:
+
+legibilidade
+manutenção
+tratamento específico
+
+2. O InnerException guarda a exceção original.
+
+Ele é útil quando:
+
+uma camada captura o erro
+adiciona contexto
+relança outra exceção
+
+Exemplo:
+
+throw new Exception("Erro ao sacar", ex);
+
+Nesse caso:
+
+Exception = erro atual
+InnerException = erro original
+
+3. A regra de negócio deve validar dentro da classe Conta. Mas a exibição da mensagem para o usuário normalmente deve acontecer na Main.
+
+Separação ideal:
+
+Conta → lança exceções
+Main → trata exceções

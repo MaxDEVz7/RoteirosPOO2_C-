@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\roteiro 1\\MinhaBiblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE74F834-F50A-4823-917A-EED4F0786330}|MinhaBiblioteca.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo2 c#\\roteiro 1\\minhabiblioteca\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE74F834-F50A-4823-917A-EED4F0786330}|MinhaBiblioteca.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE74F834-F50A-4823-917A-EED4F0786330}|BibliotecaConversao.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo2 c#\\roteiro 1\\minhabiblioteca\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE74F834-F50A-4823-917A-EED4F0786330}|BibliotecaConversao.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE74F834-F50A-4823-917A-EED4F0786330}|MinhaBiblioteca.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo2 c#\\roteiro 1\\minhabiblioteca\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE74F834-F50A-4823-917A-EED4F0786330}|MinhaBiblioteca.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE74F834-F50A-4823-917A-EED4F0786330}|BibliotecaConversao.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo2 c#\\roteiro 1\\minhabiblioteca\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE74F834-F50A-4823-917A-EED4F0786330}|BibliotecaConversao.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "main.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T20:03:25.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T20:03:25.452Z"
             },
             {
               "$type": "Document",
@@ -41,10 +40,14 @@
               "RelativeDocumentMoniker": "Calculadora.cs",
               "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\roteiro 1\\MinhaBiblioteca\\Calculadora.cs",
               "RelativeToolTip": "Calculadora.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T19:58:38.558Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

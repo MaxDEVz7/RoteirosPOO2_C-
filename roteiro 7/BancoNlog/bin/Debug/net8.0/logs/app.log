@@ -1,0 +1,23 @@
+2026-05-25 23:20:13.9798 | INFO | Teste de log funcionando. 
+2026-05-25 23:20:28.8967 | INFO | Programa iniciado. 
+2026-05-25 23:20:28.9155 | INFO | Tentando converter valor. 
+2026-05-25 23:20:28.9346 | ERROR | Erro ao converter string para inteiro. System.FormatException: The input string 'abc' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at BancoNLog.Program.Main(String[] args) in C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\roteiro 7\BancoNlog\Program.cs:line 26
+2026-05-25 23:20:28.9847 | INFO | Iniciando saque. 
+2026-05-25 23:20:28.9847 | DEBUG | Tentativa de saque no valor de 1500 
+2026-05-25 23:20:28.9911 | ERROR | Erro ao realizar saque. System.Exception: Saldo insuficiente.
+   at BancoNLog.Conta.Sacar(Decimal valor) in C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\roteiro 7\BancoNlog\Conta.cs:line 26
+   at BancoNLog.Program.Main(String[] args) in C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO2 C#\roteiro 7\BancoNlog\Program.cs:line 49
+2026-05-25 23:20:28.9911 | INFO | Iniciando depósito. 
+2026-05-25 23:20:28.9911 | INFO | Depósito realizado com sucesso. 
+2026-05-25 23:20:28.9911 | INFO | Iniciando saque. 
+2026-05-25 23:20:28.9911 | INFO | Saque realizado com sucesso. 
+2026-05-25 23:20:28.9911 | INFO | Iniciando transferência. 
+2026-05-25 23:20:28.9911 | DEBUG | Conta origem saldo: 1100 
+2026-05-25 23:20:28.9911 | DEBUG | Conta destino saldo: 500 
+2026-05-25 23:20:28.9911 | INFO | Transferência concluída com sucesso. 
+2026-05-25 23:20:28.9911 | DEBUG | Novo saldo conta origem: 800 
+2026-05-25 23:20:28.9911 | DEBUG | Novo saldo conta destino: 800 
+2026-05-25 23:20:28.9911 | INFO | Programa finalizado. 

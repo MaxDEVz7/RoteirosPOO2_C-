@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\roteiro 1\\MinhaBiblioteca\\BibliotecaConversao.csproj": {}
+    "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro 1\\MinhaBiblioteca\\BibliotecaConversao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\roteiro 1\\MinhaBiblioteca\\BibliotecaConversao.csproj": {
+    "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro 1\\MinhaBiblioteca\\BibliotecaConversao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\roteiro 1\\MinhaBiblioteca\\BibliotecaConversao.csproj",
+        "projectUniqueName": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro 1\\MinhaBiblioteca\\BibliotecaConversao.csproj",
         "projectName": "BibliotecaConversao",
-        "projectPath": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\roteiro 1\\MinhaBiblioteca\\BibliotecaConversao.csproj",
+        "projectPath": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\Roteiro 1\\MinhaBiblioteca\\BibliotecaConversao.csproj",
         "packagesPath": "C:\\Users\\maxwi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO2 C#\\roteiro 1\\MinhaBiblioteca\\obj\\",
         "projectStyle": "PackageReference",
